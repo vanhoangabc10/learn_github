@@ -5,4 +5,5 @@ for i in range(len(my_list)-1, 2, -1):
 print(11)
 print(my_list)
 print("test")
+print("add step")
 
